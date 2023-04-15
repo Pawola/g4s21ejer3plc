@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package g4s21ejer3dlf;
+package g4s21ejer3plc;
 
 /**
  *
  * @author Carmen
  */
-public class G4S21Ejer3DLF {
+public class G4S21Ejer3PLC {
 
     /**
      * @param args the command line arguments
